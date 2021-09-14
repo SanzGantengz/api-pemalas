@@ -31,7 +31,7 @@
 		"moment-timezone": "^0.5.33",
 		"monk": "^7.3.4",
 		"morgan": "^1.10.0",
-		"node-fetch": "*",
+		"node-fetch": "3.0.0-beta.9",
 		"nodemailer": "^6.5.0",
 		"path": "^0.12.7",
 		"validator": "^13.5.2"
